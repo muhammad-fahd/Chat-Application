@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chat Client</string>
+    <string name="messagehint">type your message</string>
+    <string name="send">Send</string>
+    <string name="time">Time</string>
+    <string name="message">message</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="friend">Friend Name</string>
+
+    <string-array name="friends">
+        <item>Farhan</item>
+        <item>Bilal Asif</item>
+        <item>Umer Azam</item>
+        <item>Adil Raza</item>
+        <item>Syed Shahrukh</item>
+        <item>Huzaifa</item>
+        <item>Muzammil</item>
+        <item>Mushif</item>
+        <item>Murad Ali</item>
+        <item>Bilal Khan</item>
+        <item>Umer Akhter</item>
+        <item>Ali Nawaz</item>
+    </string-array>
+</resources>
